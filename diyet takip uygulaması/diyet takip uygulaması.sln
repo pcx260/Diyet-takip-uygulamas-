@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diyet takip uygulaması", "diyet takip uygulaması\diyet takip uygulaması.csproj", "{89F790BD-5058-47BE-B49E-C5583278EB9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89F790BD-5058-47BE-B49E-C5583278EB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F790BD-5058-47BE-B49E-C5583278EB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F790BD-5058-47BE-B49E-C5583278EB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F790BD-5058-47BE-B49E-C5583278EB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06477BE5-35FC-4FF2-BF1C-3025E4B3A28D}
+	EndGlobalSection
+EndGlobal

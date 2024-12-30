@@ -1,0 +1,16 @@
+C:\Users\wgame\source\repos\diyet takip uygulaması\diyet takip uygulaması\bin\Debug\net8.0-windows\diyet takip uygulaması.exe
+C:\Users\wgame\source\repos\diyet takip uygulaması\diyet takip uygulaması\bin\Debug\net8.0-windows\diyet takip uygulaması.deps.json
+C:\Users\wgame\source\repos\diyet takip uygulaması\diyet takip uygulaması\bin\Debug\net8.0-windows\diyet takip uygulaması.runtimeconfig.json
+C:\Users\wgame\source\repos\diyet takip uygulaması\diyet takip uygulaması\bin\Debug\net8.0-windows\diyet takip uygulaması.dll
+C:\Users\wgame\source\repos\diyet takip uygulaması\diyet takip uygulaması\bin\Debug\net8.0-windows\diyet takip uygulaması.pdb
+C:\Users\wgame\source\repos\diyet takip uygulaması\diyet takip uygulaması\obj\Debug\net8.0-windows\diyet_takip_uygulaması.Form1.resources
+C:\Users\wgame\source\repos\diyet takip uygulaması\diyet takip uygulaması\obj\Debug\net8.0-windows\diyet takip uygulaması.csproj.GenerateResource.cache
+C:\Users\wgame\source\repos\diyet takip uygulaması\diyet takip uygulaması\obj\Debug\net8.0-windows\diyet takip uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgame\source\repos\diyet takip uygulaması\diyet takip uygulaması\obj\Debug\net8.0-windows\diyet takip uygulaması.AssemblyInfoInputs.cache
+C:\Users\wgame\source\repos\diyet takip uygulaması\diyet takip uygulaması\obj\Debug\net8.0-windows\diyet takip uygulaması.AssemblyInfo.cs
+C:\Users\wgame\source\repos\diyet takip uygulaması\diyet takip uygulaması\obj\Debug\net8.0-windows\diyet takip uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\wgame\source\repos\diyet takip uygulaması\diyet takip uygulaması\obj\Debug\net8.0-windows\diyet takip uygulaması.dll
+C:\Users\wgame\source\repos\diyet takip uygulaması\diyet takip uygulaması\obj\Debug\net8.0-windows\refint\diyet takip uygulaması.dll
+C:\Users\wgame\source\repos\diyet takip uygulaması\diyet takip uygulaması\obj\Debug\net8.0-windows\diyet takip uygulaması.pdb
+C:\Users\wgame\source\repos\diyet takip uygulaması\diyet takip uygulaması\obj\Debug\net8.0-windows\diyet takip uygulaması.genruntimeconfig.cache
+C:\Users\wgame\source\repos\diyet takip uygulaması\diyet takip uygulaması\obj\Debug\net8.0-windows\ref\diyet takip uygulaması.dll
